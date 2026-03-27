@@ -1,3 +1,3 @@
 # iamadipta-demo
-This is my git Repository
+This is my Git Repository.
 Author-Adipta Khan
